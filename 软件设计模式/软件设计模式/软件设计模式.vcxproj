@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e9efdaee-d544-44ab-a11f-0ca61359d89f}</ProjectGuid>
+    <ProjectGuid>{e5a4d9ef-8ee2-4cc9-8419-8f8cc90fd946}</ProjectGuid>
     <RootNamespace>软件设计模式</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -127,21 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Car.h" />
-    <ClInclude Include="Employee.h" />
-    <ClInclude Include="Person.h" />
-    <ClInclude Include="resource.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Car.cpp" />
-    <ClCompile Include="Employee.cpp" />
-    <ClCompile Include="Person.cpp" />
-    <ClCompile Include="单一职责原则.cpp" />
-    <ClCompile Include="接口隔离原则.cpp" />
-    <ClCompile Include="里氏替换原则.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ResourceCompile Include="软件设计模式.rc" />
+    <ClCompile Include="工厂模式.cpp" />
+    <ClCompile Include="抽象工厂.cpp" />
+    <ClCompile Include="简单工厂模式.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,42 +15,14 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Employee.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="Person.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="Car.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="resource.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Employee.cpp">
+    <ClCompile Include="简单工厂模式.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Person.cpp">
+    <ClCompile Include="工厂模式.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Car.cpp">
+    <ClCompile Include="抽象工厂.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="单一职责原则.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="接口隔离原则.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="里氏替换原则.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ResourceCompile Include="软件设计模式.rc">
-      <Filter>资源文件</Filter>
-    </ResourceCompile>
   </ItemGroup>
 </Project>
