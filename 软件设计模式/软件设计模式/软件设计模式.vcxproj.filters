@@ -24,5 +24,29 @@
     <ClCompile Include="抽象工厂.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="建造者.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="原型模式_简历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="原型模式_邮件浅.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="原型模式_邮件深.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="单例模式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="单例模式_身份证.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="适配器模式_STL.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="适配器模式_机器人.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
