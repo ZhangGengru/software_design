@@ -68,5 +68,4 @@ int main()
 	fruitPlate1->add(banana);
 	fruitPlate1->add(pear);
 	fruitPlate1->eat();
-
 }
