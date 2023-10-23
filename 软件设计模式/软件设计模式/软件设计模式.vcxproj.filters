@@ -48,5 +48,17 @@
     <ClCompile Include="适配器模式_机器人.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="桥接模式_OS.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="桥接模式_Pen.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="组合模式_公司.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="组合模式_水果盘.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
