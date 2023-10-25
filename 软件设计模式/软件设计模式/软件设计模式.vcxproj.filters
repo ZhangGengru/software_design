@@ -78,5 +78,17 @@
     <ClCompile Include="代理模式_论坛.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="作业5_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业5_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业5_3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业5_4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
