@@ -90,5 +90,23 @@
     <ClCompile Include="作业5_4.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="作业5_5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="职责链模式_批工资条.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="命令模式_做菜.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="命令模式_TV.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="迭代器模式_遥控器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="中介者模式_房屋中介.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
