@@ -111,5 +111,64 @@
     <ClCompile Include="中介者模式_聊天室.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="备忘录模式_游戏存档.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="备忘录模式_用户操作信息撤销.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="观察者模式_博客.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="观察者模式_猫狗老鼠.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="状态模式_战争.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="状态模式_论坛.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="策略模式_cache.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业七_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业七_3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业七_4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业七_5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业七_6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业七_7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业七_8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AbstractState.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FormAccount.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimaryState.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MiddleState.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HighState.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
